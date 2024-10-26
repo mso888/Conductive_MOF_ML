@@ -1,0 +1,8 @@
+{
+    "criterion": "0",
+    "max_depth": 14.0,
+    "max_features": "1",
+    "min_samples_split": 15.0,
+    "n_estimators": 422.0,
+    "random_state": 0
+}

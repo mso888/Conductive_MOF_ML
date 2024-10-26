@@ -1,0 +1,10 @@
+{
+    "activation": "0",
+    "alpha": 0.05634722121343628,
+    "layer1": 182.0,
+    "layer2": 169.0,
+    "layer3": 46.0,
+    "layer4": 46.0,
+    "learning_rate_init": 0.00023148733838722522,
+    "random_state": 0
+}
